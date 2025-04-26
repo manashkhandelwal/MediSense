@@ -1,3 +1,5 @@
+Medicine Prediction System
+
 "# MediSense"
 
 In order to run, clone the gitHub Repo and run the main.py file.
